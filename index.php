@@ -7,7 +7,7 @@ $siteName='Youtube Firefly';
 
 //youtube API V3 KEY:
 
-$key='AIzaSyAUAZYPyWvWmJZS-3d_Phw5OIEo5XLy80w';
+$key='';
 
 
 //其他地方不用改。
